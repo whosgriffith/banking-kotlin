@@ -1,5 +1,5 @@
 # Banking Transactions DEMO
-A RESTful API example for simple transactions processing application.
+A RESTful API example for a simple transactions processing application.
 
 ## REQUIREMENTS
 
